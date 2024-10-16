@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yao157&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yao157&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
 <!--
 **yao157/yao157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
