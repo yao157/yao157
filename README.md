@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-## Stats:
+<img src="https://images.unsplash.com/photo-1528988719300-046ff7faf8cb?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
+## Stats:
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yao157&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yao157&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yao157&layout=compact" />&nbsp;&nbsp;
 </p>
 
 <!--
